@@ -2,6 +2,8 @@ github.com/cjlapao/common-go v0.0.3 h1:Di5i5NrdSn7s4NFT8NfIAFPyTHx98DlqBiZfXExyj
 github.com/cjlapao/common-go v0.0.3/go.mod h1:I3hLPD17UCF9gDibz0fnxb5Pnvu9U25Rms5ytVJGj38=
 github.com/cjlapao/common-go v0.0.4 h1:jSCvYCVroRK3oih2kHSCTsNw986YNepzqCsaXGPdUuM=
 github.com/cjlapao/common-go v0.0.4/go.mod h1:I3hLPD17UCF9gDibz0fnxb5Pnvu9U25Rms5ytVJGj38=
+github.com/cjlapao/common-go v0.0.8 h1:jxfAwIrQ81VG2swC+yvYZ8YdKIPm5WJJcPtZ33vgnPk=
+github.com/cjlapao/common-go v0.0.8/go.mod h1:WS8XKs+ihK2SX0PuYmngl26zXGYuW+0sv3W6qW+dwR8=
 github.com/fatih/color v1.10.0 h1:s36xzo75JdqLaaWoiEHk767eHiwo0598uUxyfiPkDsg=
 github.com/fatih/color v1.10.0/go.mod h1:ELkj/draVOlAH/xkhN6mQ50Qd0MPOk5AAr3maGEBuJM=
 github.com/mattn/go-colorable v0.1.8 h1:c1ghPdyEDarC70ftn0y+A/Ee++9zz8ljHG1b13eJ0s8=
